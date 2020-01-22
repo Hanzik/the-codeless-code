@@ -1,0 +1,40 @@
+Title: Strach
+Number: 33
+Lang: cs
+Translator: Hanzík
+
+Jednoho dne navštívil rozhořčený seniorní mnich, který byl teprve před nedávnem přijat do kláštera, Java mistra:
+
+"Mám za úkol obohatit systém pro zpracování objednávek používaný samotným Císařovo ševcem, nicméně nedokážu pochopit, jak celý to celé funguje. Logika systému je rozdělena mezi několik aplikací, každá implementovaná naprosto jinou technologií. Namísto vytvoření nějaké sdílené knihovny se autor rozhodl zkopírovat kusy kódu a sem tam ho trochu pozměnit. Tasky na pozadí vyhledávají a upravují záznamy v databázi bez jediného zdokumentovaného důvodu a samotná databáze se proti mně spikla. Prostý update v jedné tabulce spustí kaskádu insertů a deletů na spoustě dalších místech."
+
+"Vidím zde dvě cesty před tebou," pověděl Java mistr. "V té první provedeš pouze ty nejnutnější úpravy a rychle se prohlásíš za vítěze. V té druhé se vydáš strastiplnou cestou plné refaktorování jádra systému. Kterou stezku zvolíš?"
+
+Mnich se plný hanby uklonil. "To nemohu povědět. V tuto chvíli se bojím čehokoliv dotknout, neboť by má neznalost systému byla též mojí záhubou."
+
+"Strah dělá dobré brnění, ale jen velmi mizerné ostří," přikývl Java mistr. "Abys porazil svůj strach, musíš se nejprve zbavit své neznalosti." Mistr pozvedl svojí hůl, odhrnul s ní závěs a ukázal skrz okno na les.
+
+"Vydej se po stezce Bílých kopřiv a následuj jí po dobu tří dnů až se dostaneš do hor a narazíš na poutní místo poblíž útesu. Tam najdeš zkušeného bratra, který ti ukáže kopie klientovo dokumentace. Poradí ti, jak je systém navržen."
+
+Mnich učinil, jak mu bylo řečeno. Za úsvitu dorazil k poutnímu místu, což byla budova jako žádná jiná. 
+
+Zcela jistě to původně byl pevný dům z kamene, který byl postaven na okraji útesu. Nyní byl ovšem obestavěný třemi křídly z borovicového dřeva. Na tyto křídla navazovaly otevřené chodby a schodiště, které byly zakončené různě velkými místnostmi. To vše bylo podepřené diagonálně položenými sloupky, které se opírali mnohem níže o samotný útes a jen sotva držely celou tuto konstrukci od zřícení.
+
+Na místnosti byly mnohdy přivázané další žebříky a lana, která vedla dál od útesu, dál do prázdného prostoru, do izolovaných místností postavených převážně ze slámy nebo bambusu. Vše drželo dohromady konopí, které bylo někde přivázané k okennímu parapetu, jinde zase ke korouhvi na střeše, skoro jako by opilý pavouk ulovil do své sítě stovku nebohých chatek. Stavba se i za jemného vánku nebezpečně kývala ze strany na stranu.
+
+Mnich chvíli beze slov stál, až poté udeřil na gong.
+
+Z nejvzdálenější místnosti se vynořil poustevník, pohupujíc se na lanech, střechách a žebřících, až se nakonec objevil u dveří domu.
+
+"Co za novinky neseš z chrámu?" zeptal se poustevník. "Byl jsem konečně povolán zpět?"
+
+Mnich naznačil, že žádné takové zprávy nenese.
+
+Poustevník svěsil hlavu. "Jaké to neštěstí! Dokud se mi takové zprávy nedostane, je mým úkolem rozšiřovat toto místo dál za útes, abychom zde mohli skladovat rostoucí sbírku dočasných souborů z chrámu. Tak jsem to dělal věrně mnoho let. Doufal jsem, že jednoho dne se mi dostane mistrovo přízně a budu se moci vrátit zpět do chrámu. Musím se ale přiznat, že má práce se stává rok od roka těžší. V zimě se bambusové lešení pod váhou sněhu div nerozpadne a v létě musím odhánět straky, aby si neudělaly z některého slaměného domku hnízdo. Mimochodem, nejsi náhodou na něco alergický? Pyl? Pampelišky? Jednou jsem byl svědkem toho, jak se jedním kýchnutím zřítilo z útesu sedm místností."
+
+"Však tohle je šílené!" vykřikl mnich. "Teď, když máš představu o tom, kolik tak místností budeš potřebovat, není lepší tohle celé strhnout a začít znova?"
+
+"Nesmysl. Představ si, jak dlouho by něco takového mohlo trvat a jak nespokojený by můj mistr mohl být! Jak bych mohl ospravedlnit odstranění místností namísto toho, abych nějaké přidal? Mé vyhnanství by se mohlo protáhnout o další desetiletí! Ne, je mnohem bezpečnější to udělat přesně tak, jak mi bylo přikázáno. Kromě toho, znám tuto stavbu skrz na skrz, slabá místa i ta silná. Dokud budu lehce našlapovat a vyhnu se pepři, šance, že se stanu další obětí propasti pod útesem, je minimální."
+
+"Ale dost mého povídaní, učený bratře. Pokud jsi mě nebyl povolat zpět domu, pak jsi musel přijít požádat mě o pomoc s pochopením Císařova systému pro zpracování objednávek. Mnoho lidí sem již přišlo s tímto úkolem, protože já byl jeho autorem."
+
+Mnich se uklonil a odebral se zpět na cestu do chrámu, neboť se mu dostalo osvícení, které mu bylo touto poutí slíbeno.

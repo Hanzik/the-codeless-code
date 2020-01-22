@@ -1,0 +1,15 @@
+Měřítko odbornosti
+
+Ve snaze o snížení frustrace na straně čtenáře si dovolil autor ohodnotit každý případ podle následujího kritéria:
+
+Neodborné.
+  Pokud víte, co je to počítač, pak tomuhle budete pravděpodobně rozumět. Neříkám, že se u toho budete bavit, ale pravděpodobně tomu budete rozumět.
+
+Trochu odborné.
+  Obsahuje základní pojmy vývoje softwaru. Testování, znovupoužítí kódu, nekonečné smyčky nebo třeba kofein.
+  
+Středně odborné.
+  Orientováno na občasné hackery a nadšence do technologií. Pokud jste někdy programovali v něčem, co připomíná moderní programovací jazyky - Java, C++, Python, Perl - pak nebudete mít problém. Prolog vývojáři možná shledají syntax příliš zastaralý a nejasný. Lisp vývojáři budou zbytečně zatěžovat své oči, až budou ze zvyku hledat první závorku.
+  
+Velmi odborné.
+  Směrováno především na hardcore vývojáře, především ty z rodiny Javy. Pokud je C# vaším mateřským jazykem, pak možná nejprve budete chtít přeložit koán tím, že Nahradíte Každé První Proklaté Písmeno Ve Slově Za Velké.

@@ -1,0 +1,14 @@
+Title: Pojmenování jmen
+Number: 34
+Lang: cs
+Translator: Hanzík
+
+Kněžka [[Suku]] si prohlížela kód jejích nováčků, když narazila na modul, jehož názvy proměnných Suku rozzuřily. Objekty byly nazvané /objekt/ nebo zkráceně /obj/, nehledě na konkrétní typ. Seznamy byly pojmenované /list1/, /list2/, apod. Iterátory byly nazvané /i/, /j/ a z nepochopitelného důvodu /x/.
+
+Kněžka si to namířila do kuchyně, kde nováčci akorát chystali večeři. Z věšáku si vypůjčila tu největší naběračku na rýži, která více připomínala pádlo než cokoliv jiného, a šla najít svého hříšníka. Klučina neměl šanci jejímu hněvu uniknout.
+
+/"Co jsem provedl?!"/ kňučel nováček, když pádlo podesáté mlasklo o jeho pozadí. 
+
+"Za urážku!" odpověděla kněžka. "Za sprostá podstatná jména!"
+
+Tato scéna se opakovala každý večer, dokud nebyl nováček osvícen.

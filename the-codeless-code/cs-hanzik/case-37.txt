@@ -1,0 +1,27 @@
+Title: Simulace
+Number: 37
+Lang: cs
+Translator: Hanzík
+
+
+
+
+Nový systém na zpracování objednávek vytvořený [[Spider Clan|Řádem pavoučí sítě]] se choval dobře v produkčním prostředí, ale v tom vývojovém byl tak nestabilní, že nikdo z řádu nebyl pořádně schopen testovat jakékoliv změny déle jak pár hodin denně. Zrovna se blížil jeden z deadlinů. Nebýt toho, že jsou bratři ostříhaní už takto na krátko, trhali by si už v takové situaci vlasy.
+
+"Je to proto, že [[Laughing Monkey Clan|Řád smějící se opice]] shazuje každou chvíli /jejich/ vývojové servery!" stěžoval si vrchní mnich Řádu pavoučí sítě jednomu z kněžích. "Bez jejich služeb se náš kód nemůže dotázat na uživatelské nastavení nebo na obsah jeho košíku!"
+
+"Naše restarty jsou nezbytné," odpověděl vrchní mnich Řádu smějící se opice. "I během dne potřebujeme nasazovat nový kód. Třeba by Řád pavoučí sítě mohl simulovat naše služby. Data by byla falešná, ale výpadky našich serverů by je vůbec netrápily."
+
+"To je nepřípustné!" odpověděl vrchní mnich Pavoučí sítě. "Chcete po nás, abychom vynaložili značné úsilí, jehož výsledkem by byla pouze ubohá náhrada originálu. Jen abychom obešli vaší neschopnost!" Obrátil se na kněze. "Když slunce zajde za hory nebo se schová za mraky, nesedí nás písař nečinně jako jeho dávní předchůdci, neboť má po ruce svoji halogenový svícen, který funguje ve dne i v noci. Služby poskytované Řádem smějící se opice by měly následovat jeho vzoru a být stejně spolehlivé jako elektřina, která pohání záři jeho svícnu."
+
+Hlava Smějící se opice to zvážila.
+
+Late that night the head of Spider Clan was awoken by a
+tapping on his door.  He gathered his robes about
+his person and called for the visitor to enter.
+
+"At the request of Laughing Monkey I bring a small gift from
+my chambers," whispered an old man's voice.  In came none
+other than the temple's own scribe, who set a burning candle
+upon the table.  "I sometimes find it necessary when there
+are storms."

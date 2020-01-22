@@ -1,0 +1,56 @@
+Title: Vrabec uletěl z hrsti
+Number: 35
+Lang: cs
+Translator: Hanzík
+
+Poslíček informoval abatyši [[Jinyu]], že pár jejich mnichů přišlo na velmi chytrý způsob, jak ukládat informace v Cloudu. Bratři byli nadšení, co všechno to přinášelo za možnosti a chtěli tuto technologii rozvinout dále. Abatyše jim poslala tuto zprávu:
+
+    Vejce se líhne, //
+    vyklubal se Řád vrabců.
+    
+Nový řád pracoval na svém prototypu den co noc. Všichni se přišli podívat na jejich demo a netrvalo dlouho a Řád vrabců byl oslavován po celém chrámu. Vrchní mnich řádu obdržel od abatyše novou zprávu:
+
+    Vrabec se vymanil ze spárů temného lesa. //
+    Všichni pohleďte na jeho vzestup.
+    
+Touhle dobou se zrovna jeden z potencionálních klientů poohlížel po technologiích umožňující tvorbu nové sociální sítě. Vrchní mnich pozval klienta na čaj a přesvědčil ho o tom, že nový software jeho řádu by byl perfektním základem pro požadavky zákazníka. Klient souhlasil, a tak byla s Řádem vrabce sepsaná nová smlouva. Stará Jinyu poslala po poslíčkovi své gratulace:
+
+    Poletujíc nad vzdáleným krajem, //
+    loví vrabec svojí kořist, //
+    zatím co zbytek hejna stále dřímá.
+    
+Systém byl zákazníkovi dodán a chrám se těšil velkého úspěchu.
+
+Uplynuly měsíce. Mnoho lidí používalo aplikaci, dokonce i mnoho vývojářů, které toto moderní využití Cloudu zaujalo a chtěli se nechat inspirovat. I když neměli přístup ke kódu, který Řád vrabce vytvořil, bylo velmi snadné rozpoznat, jak jejich systém funguje. 
+
+Slovo se dostalo k abatyši, že poslední konferenci se Sdružení opeřených ptáků dohodlo na vytvoření jednotného API využívající tento nový druh cloudového rozhraní. Následující den otevřel vrchní mnich dopis s varováním:
+
+   Barevné listí padá na zem. //
+   Hejna se probouzí.
+
+Řád vrabce se o toto nové API vůbec nechtěl zajímat. Tvrdil, že je zbytečně komplikované. I nadále tak řád používal své vlastní techniky při práci na dalších zakázkách. Stále však poslíček nosil další záhadné zprávy:
+
+   Stovka vrabců může uklovat i orla do slepoty.
+   
+   Každý slavík má svoji píseň nejraději.
+   
+   Jeden ptáček sám vejce nesnese.
+   
+Řád vrabce se i nadále vyvíjel. Za tu dobu se jim povedlo implementovat několik velmi zajímavých prvků, ale v důsledku nebyl jejich software kompatibilní s novými API specifikacemi. To vrchního mnicha zanechávalo chladným <i>(Nechť si ostatní chrámy užijí svojí primitivní implementaci!)</i>. I přesto se bál každého rána, kdy musel otevřít novou zprávu od abatyše.
+
+   Dospělý sokol se nespokojí s hmyzem k večeři.
+
+Chrámy, které přijali za své toto nové API, pokračovali mezi sebou ve spolupráci a vytvořili mnoho různých rozšíření a knihoven. Zakázky se na ně hrnuly ze všech stran. Netrvalo dlouho a i ten nejvzdálenější kout císařství se doslechl pomocí brožur roznesených poštovními holuby o nově používaných technologiích.
+
+   Malé ptáče mi zazpívalo: //
+   bude padat sníh.
+
+Napříč celou říší se všichni vládci a generálové dožadovali, aby jejich systémy byly postavené nejnovější technologií. Každý chrám se chlubil tím, že jejich řešení splňuje stanovené standardy. Tedy, každý chrám kromě jednoho.
+
+Na tajném nádvoří Chrámu ranního měděného gongu se konala porada o budoucnosti Řádu vrabce. Jejich knihovny se staly přítěží, neboť (na rozdíl od jejich konkurence) se nedali propojit s množstvím populárních aplikací na trhu. Klienti, kteří kdysi dávno adoptovali jejich technologii, se nyní dožadovali vylepšení na novější standardy. To bylo vzhledem k naprosto odlišenému rozhraní velmi drahým požadavkem, a tak bylo mnoho zakázek zrušeno. A aby to nebylo málo, i reputace chrámu na tom utrpěla.
+
+Toho večera poslala Jinyu poslední zprávu vrchnímu mnichovi řádu. Na čtverci z rýžového papíru, který byl omotán kolem seppuku nože, bylo napsáno:
+
+    Hejno odletělo na jih. //
+    Vrabec má celý bílý kraj jen pro sebe. //
+    A z oblak se už blíží jestřáb. //

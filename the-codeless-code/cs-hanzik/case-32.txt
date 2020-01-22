@@ -1,0 +1,18 @@
+Title: Plevel
+Number: 32
+Lang: cs
+Translator: Hanzík
+
+Chrám velmi nutně potřeboval dalšího vývojáře a vyhlásil tedy výběrové řízení. O pozici se přihlásili dva nováčci. Java mistr [[Banzen]] vyslal jednoho z bratrů, aby s nimi provedl pohovor.
+
+"Oba jsou naprosto stejně kvalifikovaní," ohlásil mnich ještě ten samý večer. "Stejného věku, váhy, držení těla, vzhledu, zkušenostmi s mečem a oblíbeného kafe. Postavil jsem před ně tedy stejný problém. Jeden z nich selhal, ten druhý ho úspěšně vyřešil."
+
+Java mistr řekl: "Vezmi mě do místností, kde jsi tyto pohovory vedl."
+
+Nejprve šli do místnosti, kde mnich zpovídal neúspěšného kandidáta. Na tabuli byly stále zeleným fixem napsané poznámky k položenému problému. Všechny informace byly na zdi rovnoměrně rozložené, v úhledně uspořádaných sloupcích. Java mistr Banzen rychle zpozoroval chybu, kterou nešťastný uchazeč udělal.
+
+"Zde vidíme růst hrášek, který se snaží prodrat skrz vrstvu sněhové nadílky. Když se o něj budeme starat, můžeme se už na jaře těšit vydatné večeři."
+
+Poté šli do druhé místnosti, kde proběhl pohovor s úspěšným kandidátem. I zde byly hlavní body problému znázorněny zelenou fixou na tabuli, nicméně v tomto případě byly všechny poznámky chaoticky načmárané po celé stěně -- obrovská změť nesrozumitelných blábolů.
+
+Java mistr zavrtěl hlavou. "Zde mi tvrdíš, že se nachází kopr a citronová tráva, ale přes všechen ten plevel bych ho nikdy nebyl schopen najít."

@@ -1,0 +1,14 @@
+Contents = Obsah
+Topics = Témata
+Names = Jména
+First = První
+Previous = Předchozí
+Next = Další
+Last = Poslední
+Random = Náhodný
+About = Informace
+
+Case <N> = Případ <N>
+
+Czech = Česky
+Translated by <XY> = Přeložil <XY>

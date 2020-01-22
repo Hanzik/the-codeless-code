@@ -1,0 +1,20 @@
+Title: Upovídaný sandál
+Number: 31
+Lang: cs
+Translator: Hanzík
+
+Dva bratři šli vyřešit svůj spor za Java mistrem [[Kaimu]]. Zeptali se ho: "Je null hodnota nebo absence hodnoty?"
+
+"Null," odpověděl mistr a odešel.
+
+O významu mistrovo odpovědi se oba mniši hádali až do setmění. Nepřestali, ani když se celý řád odebral do pokojů a všude se zhaslo.
+
+První z bratrů si stál za tím, že null /musí/ být hodnota, protože ji mistr použil k odpovědi.
+
+Druhý z bratrů si zase stál za tím, že null /nemůže/ být hodnota, protože odpověď mistra byla prázdná a neobsahovala ani jednu z obou nabízených možností.
+
+Třetí bratr, který se snažil usnout, zakřičel a hodil po nich svůj sandál.
+
+Čtvrtý bratr se s úsměvem na tváři zeptal: "Byla to žádost o ticho nebo /absence/ žádosti o ticho?" 
+
+Zatím co nad tím první dva bratři přemýšleli, za okny vyšel měsíc.

@@ -1,0 +1,30 @@
+Title: Hrnky
+Number: 30
+Lang: cs
+Translator: Hanzík
+
+Java mistr [[Bawan]] pravil: "Žebrák na tržišti nevlastní nic jiného než tucet hrnků. Naplňte všechny kromě toho posledního a bude vám nadosmrti vděčný. Naplníte ten poslední hrnek byť jedinou kapkou a žebrák ihned umře žízní. Proč je tomu tak?"
+
+Žádný z mnichů nebyl schopen na jeho otázku odpovědět. Mistr se odebral do svých komnat.
+
+Ještě ten večer dorazila před jeho dveře čtveřice studentů, hledajíc pomoc s neposedným programem. Jeho logy byly plné ArrayIndexOutOfBounds výjimek, které byly dle slov studentů nemožné. Pole, o kterém byla řeč, bylo deklarováno s místem pro tisíc prvků, ale index, kterým ho procházeli, byl pouze jednobitový integer, a tak z definice nemohl přesáhnout hodnotu 255.
+
+Mistr Bawan ukázal na předmět v rohu jeho pokoje. "Co je to?" zeptal se každého ze studentů.
+
+"Koště," odpověděl každý z nich.
+
+Bawan poté uchopil toto koště a roztočil ho nad hlavami studentů. Obrázky padaly ze stěny, vázy a hrnky letěly z poliček, papírové zástěny se trhaly a prach z trámů se vířil jako tornádo. 
+
+"Není to koště!" křičel mistr Bawan a dál točil s koštětem jak smyslů zbavený. "Není to koště!"
+
+
+== Qiho komentář
+
+Všechny žebrákovo hrnky si jsou ve všech směrech podobné, ale zároveň každý z nich dokáže pojmout dvakrát tolik vody, co hrnek napravo od něj. Teď řekněte rychle, co to je.
+
+== Qiho báseň
+
+V rukou žebráka budí hůl lítost. //
+V rukou mistr, strach. //
+Tato vlastnost nepatří holi, //
+nýbrž rukám, které ji drží.

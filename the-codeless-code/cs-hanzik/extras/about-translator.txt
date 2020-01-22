@@ -1,0 +1,4 @@
+Translator: Hanzík
+Name: Honza Vrátník
+URL: https://github.com/Hanzik
+License: [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/deed.pl)
